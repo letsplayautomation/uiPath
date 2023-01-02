@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - develop
+      
 
 # Here the environment variable is declared in workflow level
 env:
